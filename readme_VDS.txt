@@ -67,7 +67,7 @@ pip install psycopg2-binary
 Если не подключаться по SFTP, то можно скопировать репозиторий с GitHub(но для удобства работы, лучше видеть структуру
 проекта):
 Копирование репозитория:
-git remote add origin https://github.com/DaniyalAtnagulov/My_graduate_work.git
+git remote add origin https://github.com/DaniyalAtnagulov/My_graduate_work
 
 Из какой ветки копировать:
 git pull origin main
